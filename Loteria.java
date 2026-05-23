@@ -10,7 +10,7 @@ public class Loteria {
         int[] esfera = new int[100];
         String resp;
 
-        //rellenado del esfera
+        //rellenado la esfera
         for (int i = 0; i < esfera.length; i++) {
             esfera[i] = i;
         }
